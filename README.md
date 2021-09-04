@@ -1,1 +1,1 @@
-# Drug-Likeness Prediction With Minimal Chemical Knowledge.
+# Drug-Likeness Prediction With Minimal Chemical Information.
