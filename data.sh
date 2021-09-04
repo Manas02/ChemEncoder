@@ -48,5 +48,5 @@ echo "3️⃣ /3️⃣  Data for Non-Drug Class Downloaded ✅"
 cd ../..
 echo "⚙️ Processing Data ✅"
 echo "🧮 Summary Table"
-python3 data_proc.py
+python3 data.py
 echo "✅ DONE !! ✅"
